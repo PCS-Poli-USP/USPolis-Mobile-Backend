@@ -14,25 +14,35 @@ export const importEvents = async () => {
     .pipe(parse({ delimiter: ',', from_line: 2 }))
     .on('data', (row) => {
       allRows.push({
-        preferences: null,
         class_code: row[0],
         subject_code: row[1],
         subject_name: row[2],
         professor: row[3],
-        start_period: row[4],
-        end_period: row[5],
-        created_by: row[6],
         week_day: row[7],
-        start_time: row[8],
-        end_time: row[9],
         building: row[10],
         classroom: row[11],
+        
+        // Veirificar formato
+        start_time: row[8],
+        end_time: row[9],
+        
+        // Verificar se bate com formato do banco
+        start_period: row[4],
+        end_period: row[5],
+        
+        // Verificar se o formato da data vem correto
+        created_by: row[6],
+        updated_at: new Date().toString(),
+        
+        // Parametros colocados de maneira duvidosa:
         class_type: '',
         has_to_be_allocated: false,
         vacancies: 0,
-        updated_at: new Date().toString(),
         pendings: 0,
         subscribers: 0,
+        preferences: null,
+
+        // Mudar ID para correto
         id: 'Teste'
       })
     })
