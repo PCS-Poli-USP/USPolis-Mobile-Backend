@@ -1,0 +1,231 @@
+class_code,subject_code,subject_name,professor,start_period,end_period,created_by,week_day,start_time,end_time,building,classroom,floor
+2023101,PEA3301,Introdução aos Sistemas de Potência,Silvio Giuseppe Di Santo,2023-03-13,2023-07-15,eletrica-manual,ter,07:30,09:10,Elétrica,D1-01,1
+2023101,PEA3301,Introdução aos Sistemas de Potência,Silvio Giuseppe Di Santo,2023-03-13,2023-07-15,eletrica-manual,sex,11:10,12:50,Elétrica,D1-01,1
+2023102,PEA3301,Introdução aos Sistemas de Potência,Carlos Eduardo de Morais Pereira,2023-03-13,2023-07-15,eletrica-manual,ter,07:30,09:10,Elétrica,D1-02,1
+2023102,PEA3301,Introdução aos Sistemas de Potência,Carlos Eduardo de Morais Pereira,2023-03-13,2023-07-15,eletrica-manual,sex,11:10,12:50,Elétrica,D1-02,1
+2023103,PEA3301,Introdução aos Sistemas de Potência,Giovanni Manassero Junior,2023-03-13,2023-07-15,eletrica-manual,ter,07:30,09:10,Elétrica,D1-03,1
+2023103,PEA3301,Introdução aos Sistemas de Potência,Giovanni Manassero Junior,2023-03-13,2023-07-15,eletrica-manual,sex,11:10,12:50,Elétrica,D1-03,1
+2023104,PEA3301,Introdução aos Sistemas de Potência,Eduardo Lorenzetti Pellini,2023-03-13,2023-07-15,eletrica-manual,ter,07:30,09:10,Elétrica,D1-04,1
+2023104,PEA3301,Introdução aos Sistemas de Potência,Eduardo Lorenzetti Pellini,2023-03-13,2023-07-15,eletrica-manual,sex,11:10,12:50,Elétrica,D1-04,1
+2023101,PEA3306,Conversão Eletromecânica de Energia,Viviane Cristine Silva,2023-03-13,2023-07-15,eletrica-manual,ter,11:10,12:50,Elétrica,D1-01,1
+2023101,PEA3306,Conversão Eletromecânica de Energia,Viviane Cristine Silva,2023-03-13,2023-07-15,eletrica-manual,sex,09:20,11:00,Elétrica,D1-01,1
+2023102,PEA3306,Conversão Eletromecânica de Energia,Luiz Lebensztajn,2023-03-13,2023-07-15,eletrica-manual,ter,11:10,12:50,Elétrica,D1-02,1
+2023102,PEA3306,Conversão Eletromecânica de Energia,Luiz Lebensztajn,2023-03-13,2023-07-15,eletrica-manual,sex,09:20,11:00,Elétrica,D1-02,1
+2023103,PEA3306,Conversão Eletromecânica de Energia,Luiz Natal Rossi,2023-03-13,2023-07-15,eletrica-manual,ter,11:10,12:50,Elétrica,D1-03,1
+2023103,PEA3306,Conversão Eletromecânica de Energia,Luiz Natal Rossi,2023-03-13,2023-07-15,eletrica-manual,sex,09:20,11:00,Elétrica,D1-03,1
+2023101,PEA3311,Laboratório de Conversão Eletromecânica de Energia,,2023-03-13,2023-07-15,eletrica-manual,qui,09:20,12:00,Elétrica,A1-33,1
+2023102,PEA3311,Laboratório de Conversão Eletromecânica de Energia,Alberto Bianchi Junior,2023-03-13,2023-07-15,eletrica-manual,qui,09:20,12:00,Elétrica,A1-37,1
+2023103,PEA3311,Laboratório de Conversão Eletromecânica de Energia,Maurício Barbosa de Camargo Salles,2023-03-13,2023-07-15,eletrica-manual,ter,15:00,17:40,Elétrica,A1-33,1
+2023104,PEA3311,Laboratório de Conversão Eletromecânica de Energia,Cicero Couto de Moraes,2023-03-13,2023-07-15,eletrica-manual,ter,15:00,17:40,Elétrica,A1-37,1
+2023105,PEA3311,Laboratório de Conversão Eletromecânica de Energia,Ivan Eduardo Chabu,2023-03-13,2023-07-15,eletrica-manual,qua,15:00,17:40,Elétrica,A1-33,1
+2023106,PEA3311,Laboratório de Conversão Eletromecânica de Energia,,2023-03-13,2023-07-15,eletrica-manual,qua,15:00,17:40,Elétrica,A1-37,1
+2023107,PEA3311,Laboratório de Conversão Eletromecânica de Energia,,2023-03-13,2023-07-15,eletrica-manual,qui,15:00,17:40,Elétrica,A1-33,1
+2023108,PEA3311,Laboratório de Conversão Eletromecânica de Energia,Maurício Barbosa de Camargo Salles,2023-03-13,2023-07-15,eletrica-manual,qui,15:00,17:40,Elétrica,A1-33,1
+2023109,PEA3311,Laboratório de Conversão Eletromecânica de Energia,Maurício Barbosa de Camargo Salles,2023-03-13,2023-07-15,eletrica-manual,sex,15:00,17:40,Elétrica,A1-33,1
+2023101,PEA3345,Introdução a Eletrotécnica Geral,Josemir Coelho Santos,2023-03-13,2023-07-15,eletrica-manual,sex,13:10,15:50,Elétrica,GD-05,1
+2023101,PEA3388,Eletricidade Geral IV,Renato Machado Monaro,2023-03-13,2023-07-15,eletrica-manual,ter,07:30,09:10,Elétrica,C1-30,1
+2023101,PEA3388,Eletricidade Geral IV,Renato Machado Monaro,2023-03-13,2023-07-15,eletrica-manual,qua,09:20,11:00,Elétrica,C1-30,1
+2023101,PEA3390,Eletricidade Aplicada I,Eduardo Mario Dias,2023-03-13,2023-07-15,eletrica-manual,seg,07:30,09:10,Elétrica,C1-30,1
+2023101,PEA3391,Eletricidade II,Carlos Frederico Meschini Almeida,2023-03-13,2023-07-15,eletrica-manual,ter,09:20,11:00,Elétrica,C1-49,1
+2023101,PEA3395,Eletrotécnica Geral,Milana Lima dos Santos,2023-03-13,2023-07-15,eletrica-manual,seg,07:30,09:10,Elétrica,GD-06,1
+2023101,PEA3400,Máquinas Elétricas I,Ivan Eduardo Chabu,2023-03-13,2023-07-15,eletrica-manual,seg,15:00,16:40,Elétrica,GD-06,1
+2023101,PEA3400,Máquinas Elétricas I,Ivan Eduardo Chabu,2023-03-13,2023-07-15,eletrica-manual,sex,15:00,16:40,Elétrica,GD-06,1
+2023101,PEA3402,Instalações Elétricas,Jose Aquiles Baesso Grimoni,2023-03-13,2023-07-15,eletrica-manual,ter,13:10,14:50,Elétrica,GD-06,1
+2023101,PEA3410,Sistema de Potência I,Luiz Cera Zanetta Junior,2023-03-13,2023-07-15,eletrica-manual,seg,13:10,14:50,Elétrica,GD-06,1
+2023101,PEA3410,Sistema de Potência I,Luiz Cera Zanetta Junior,2023-03-13,2023-07-15,eletrica-manual,qui,13:10,14:50,Elétrica,GD-06,1
+2023101,PEA3411,Introdução à Automação de Sistemas Elétricos,Eduardo Lorezentti Pellini,2023-03-13,2023-07-15,eletrica-manual,qui,15:00,16:40,Elétrica,C1-30,1
+2023101,PEA3413,Automação de Sistemas Industriais,Cicero Couto de Moraes,2023-03-13,2023-07-15,eletrica-manual,qua,16:50,18:30,Elétrica,A2-37,3
+2023101,PEA3419,Tópicos de Sistemas Embarcados na Automação de Sistemas Elétricos Modernos,Eduardo Lorezentti Pellini,2023-03-13,2023-07-15,eletrica-manual,qui,16:50,18:30,Elétrica,A2-37,3
+2023101,PEA3420,Produção de Energia,André Luiz Veiga Gimenes,2023-03-13,2023-07-15,eletrica-manual,ter,15:00,16:40,Elétrica,GD-05,1
+2023101,PEA3420,Produção de Energia,André Luiz Veiga Gimenes,2023-03-13,2023-07-15,eletrica-manual,qui,15:00,16:40,Elétrica,GD-05,1
+2023101,PEA3450,Coleta e Armazenamento de Energia,André Luiz Veiga Gimenes,2023-03-13,2023-07-15,eletrica-manual,seg,08:20,10:10,Elétrica,GD-05,1
+2023101,PEA3450,Coleta e Armazenamento de Energia,André Luiz Veiga Gimenes,2023-03-13,2023-07-15,eletrica-manual,qui,10:10,11:50,Elétrica,GD-06,1
+2023101,PEA3489,Eletrônica de Potência I,Lourenço Matakas Junior,2023-03-13,2023-07-15,eletrica-manual,sex,13:10,14:50,Elétrica,C1-49,1
+2023101,PEA3496,Energia e Meio Ambiente: Sistemas Energéticos e seus Efeitos Ambientais,Alberto Bianchi Junior,2023-03-13,2023-07-15,eletrica-manual,qui,13:10,15:50,Elétrica,D1-03,1
+2023101,PEA3503,Subestações e Equipamentos,Luiz Cera Zanetta Junior,2023-03-13,2023-07-15,eletrica-manual,seg,09:20,11:00,Elétrica,A2-48,3
+2023101,PEA3503,Subestações e Equipamentos,Luiz Cera Zanetta Junior,2023-03-13,2023-07-15,eletrica-manual,qui,09:20,11:00,Elétrica,A2-48,3
+2023101,PEA3511,Transporte de Energia Elétrica,Nelson Kagan,2023-03-13,2023-07-15,eletrica-manual,ter,09:20,11:00,Elétrica,A2-48,3
+2023101,PEA3511,Transporte de Energia Elétrica,Carlos Frederico Meschini Almeida,2023-03-13,2023-07-15,eletrica-manual,qua,09:20,11:00,Elétrica,A2-48,3
+2023101,PEA3515,Modelagem de Componentes de Sistemas Elétricos de Potência para Cálculos Elétricos,Carlos Eduardo de Morais Pereira,2023-03-13,2023-07-15,eletrica-manual,ter,13:10,16:40,Elétrica,A2-48,3
+2023101,PEA3534,Introdução às Instalações Elétricas em Áreas Classificadas,Carlos Frederico Meschini Almeida,2023-03-13,2023-07-15,eletrica-manual,ter,11:10,12:50,Elétrica,A2-48,3
+2023101,PEA3536,Tópicos de Regulação do Setor Elétrico,Carlos Frederico Meschini Almeida,2023-03-13,2023-07-15,eletrica-manual,qua,11:10,12:50,Elétrica,A2-48,3
+2023101,PTC3413,Controle Multivariável,Átila Madureira Bueno,2023-03-13,2023-07-15,eletrica-manual,qua,11:10,12:50,Elétrica,C1-30,1
+2023101,PTC3413,Controle Multivariável,Átila Madureira Bueno,2023-03-13,2023-07-15,eletrica-manual,sex,11:10,12:50,Elétrica,C1-30,1
+2023101,PTC3415,Modelagem e Simulação,Claudio Garcia,2023-03-13,2023-07-15,eletrica-manual,qua,07:30,09:10,Elétrica,D1-04,1
+2023101,PTC3415,Modelagem e Simulação,Claudio Garcia,2023-03-13,2023-07-15,eletrica-manual,sex,07:30,09:10,Elétrica,GD-03,1
+2023101,PTC3419,Controle Digital,Ricardo Paulino Marques,2023-03-13,2023-07-15,eletrica-manual,qua,09:20,11:00,Elétrica,D1-04,1
+2023101,PTC3419,Controle Digital,Ricardo Paulino Marques,2023-03-13,2023-07-15,eletrica-manual,sex,09:20,11:00,Elétrica,GD-06,1
+2023101,PTC3422,Modelos de Sistemas Biológicos,Luiz Henrique Alves Monteiro,2023-03-13,2023-07-15,eletrica-manual,sex,14:00,17:40,Elétrica,D1-02,1
+2023101,PTC3435,Princípios de Instrumentação Biomédica,Henrique Takachi Moriya,2023-03-13,2023-07-15,eletrica-manual,ter,09:20,12:50,Elétrica,Caeel 1,
+2023101,PTC3440,Modelos Probabilísticos,Oswaldo Luiz do Valle Costa,2023-03-13,2023-07-15,eletrica-manual,ter,11:10,12:50,Elétrica,GD-03,1
+2023101,PTC3440,Modelos Probabilísticos,Oswaldo Luiz do Valle Costa,2023-03-13,2023-07-15,eletrica-manual,qui,11:10,12:50,Elétrica,GD-03,1
+2023101,PTC3441,Modelagem e Controle de Manipuladores Robóticos,Fabio de Oliveira Fialho,2023-03-13,2023-07-15,eletrica-manual,ter,09:20,11:00,Elétrica,GD-03,1
+2023101,PTC3441,Modelagem e Controle de Manipuladores Robóticos,Fabio de Oliveira Fialho,2023-03-13,2023-07-15,eletrica-manual,qui,09:20,11:00,Elétrica,GD-03,1
+2023101,PTC3566,Tópicos de Controle Avançado,Felipe Miguel Pait,2023-03-13,2023-07-15,eletrica-manual,qua,09:20,12:50,Elétrica,GD-05,1
+2023101,PTC3260,Laboratório de Conectividade,Cristiano Magalhaes Panazio,2023-03-13,2023-07-15,eletrica-manual,seg,09:20,11:00,Elétrica,C1-14,1
+2023101,PTC3307,Sistemas e Sinais,Andre Fabio Kohn,2023-03-13,2023-07-15,eletrica-manual,seg,11:10,12:50,Elétrica,D1-01,1
+2023101,PTC3307,Sistemas e Sinais,Andre Fabio Kohn,2023-03-13,2023-07-15,eletrica-manual,qua,11:10,12:50,Elétrica,D1-01,1
+2023102,PTC3307,Sistemas e Sinais,Henrique Takachi Moriya,2023-03-13,2023-07-15,eletrica-manual,seg,11:10,12:50,Elétrica,D1-02,1
+2023102,PTC3307,Sistemas e Sinais,Henrique Takachi Moriya,2023-03-13,2023-07-15,eletrica-manual,qua,11:10,12:50,Elétrica,D1-02,1
+2023103,PTC3307,Sistemas e Sinais,Renata Valeri de Freitas,2023-03-13,2023-07-15,eletrica-manual,seg,11:10,12:50,Elétrica,D1-03,1
+2023103,PTC3307,Sistemas e Sinais,Renata Valeri de Freitas,2023-03-13,2023-07-15,eletrica-manual,qua,11:10,12:50,Elétrica,D1-03,1
+2023101,PTC3314,Ondas e Linhas,Plinio Francisco dos Santos Rodrigues,2023-03-13,2023-07-15,eletrica-manual,seg,07:30,09:10,Elétrica,GD-03,1
+2023101,PTC3314,Ondas e Linhas,Plinio Francisco dos Santos Rodrigues,2023-03-13,2023-07-15,eletrica-manual,qui,07:30,09:10,Elétrica,GD-03,1
+2023101,PTC3405,Processos Estocásticos,Marcio Eisencraft,2023-03-13,2023-07-15,eletrica-manual,qua,14:00,15:40,Elétrica,GD-03,1
+2023101,PTC3405,Processos Estocásticos,Marcio Eisencraft,2023-03-13,2023-07-15,eletrica-manual,sex,15:50,17:30,Elétrica,D1-03,1
+2023101,PTC3424,Processamento Digital de Sinais,Phillip Mark Seymour Burt,2023-03-13,2023-07-15,eletrica-manual,ter,15:50,17:30,Elétrica,D1-04,1
+2023101,PTC3424,Processamento Digital de Sinais,Phillip Mark Seymour Burt,2023-03-13,2023-07-15,eletrica-manual,qui,15:50,17:30,Elétrica,D1-03,1
+2023101,PTC3432,Teoria das Comunicações,Cristiano Magalhaes Panazio,2023-03-13,2023-07-15,eletrica-manual,seg,15:50,17:30,Elétrica,GD-03,1
+2023101,PTC3432,Teoria das Comunicações,Cristiano Magalhaes Panazio,2023-03-13,2023-07-15,eletrica-manual,sex,14:00,15:40,Elétrica,GD-03,1
+2023101,PTC3444,Antenas e Propagação,Luiz Cezar Trintinalia,2023-03-13,2023-07-15,eletrica-manual,seg,14:00,15:40,Elétrica,GD-03,1
+2023101,PTC3444,Antenas e Propagação,Luiz Cezar Trintinalia,2023-03-13,2023-07-15,eletrica-manual,qua,15:50,17:30,Elétrica,GD-03,1
+2023101,PTC3450,Redes de Comunicação,Marcio Eisencraft,2023-03-13,2023-07-15,eletrica-manual,ter,14:00,15:40,Elétrica,GD-03,1
+2023101,PTC3450,Redes de Comunicação,Marcio Eisencraft,2023-03-13,2023-07-15,eletrica-manual,qui,14:00,15:40,Elétrica,GD-03,1
+2023101,PTC3527,Anteprojeto de Formatura em Telecomunicações,Luiz Antonio Barbosa Coelho,2023-03-13,2023-07-15,eletrica-manual,qua,08:30,11:00,Elétrica,GD-03,1
+2023101,PTC3540,Laboratório de Antenas e Microondas,Murilo Hiroaki Seko,2023-03-13,2023-07-15,eletrica-manual,seg,08:30,12:00,Elétrica,C1-18,1
+2023101,PTC3545,Processamento Digital de Sinais II,Phillip Mark Seymour Burt,2023-03-13,2023-07-15,eletrica-manual,qua,11:10,12:50,Elétrica,GD-03,1
+2023101,PTC3545,Processamento Digital de Sinais II,Phillip Mark Seymour Burt,2023-03-13,2023-07-15,eletrica-manual,sex,09:20,11:00,Elétrica,GD-03,1
+2023101,PTC3547,Codificação e Transmissão Multimídia,Guido Stolfi,2023-03-13,2023-07-15,eletrica-manual,ter,11:10,12:50,Elétrica,GD-05,1
+2023101,PTC3547,Codificação e Transmissão Multimídia,Guido Stolfi,2023-03-13,2023-07-15,eletrica-manual,qui,11:10,12:50,Elétrica,GD-05,1
+2023101,PTC3548,Introdução à Compatibilidade Eletromagnética,Luiz Cezar Trintinalia,2023-03-13,2023-07-15,eletrica-manual,ter,09:20,11:00,Elétrica,Caeel 2,
+2023101,PTC3548,Introdução à Compatibilidade Eletromagnética,Luiz Cezar Trintinalia,2023-03-13,2023-07-15,eletrica-manual,qui,09:20,11:00,Elétrica,Caeel 2,
+2023102,PEF3208,Fundamentos de Mecânica das Estruturas,Daniel Miranda dos Santos,2023-03-13,2023-07-15,eletrica-manual,qui,07:30,09:10,Elétrica,D1-04,
+2023103,PEF3208,Fundamentos de Mecânica das Estruturas,Osvaldo Shigueru Nakao,2023-03-13,2023-07-15,eletrica-manual,sex,07:30,09:10,Elétrica,D1-04,
+2023104,PEF3208,Fundamentos de Mecânica das Estruturas,Osvaldo Shigueru Nakao,2023-03-13,2023-07-15,eletrica-manual,sex,09:20,11:00,Elétrica,D1-04,
+2023101,PEF3208,Fundamentos de Mecânica das Estruturas,Guilherme Rosa Franzini,2023-03-13,2023-07-15,eletrica-manual,ter,09:20,11:00,Elétrica,D1-04,
+2023101,MAP3121,Métodos Numéricos e Aplicações,Marcone Corrêa Pereira,2023-03-13,2023-07-15,eletrica-manual,seg,09:20,11:00,Elétrica,GD-06,
+2023101,MAP3121,Métodos Numéricos e Aplicações,Marcone Corrêa Pereira,2023-03-13,2023-07-15,eletrica-manual,qua,09:20,11:00,Elétrica,GD-06,
+2023102,MAP3121,Métodos Numéricos e Aplicações,Nelson Mugayar Kuhl,2023-03-13,2023-07-15,eletrica-manual,seg,09:20,11:00,Elétrica,D1-02,
+2023102,MAP3121,Métodos Numéricos e Aplicações,Nelson Mugayar Kuhl,2023-03-13,2023-07-15,eletrica-manual,qua,09:20,11:00,Elétrica,D1-02,
+2023103,MAP3121,Métodos Numéricos e Aplicações,Pedro da Silva Peixoto,2023-03-13,2023-07-15,eletrica-manual,seg,09:20,11:00,Elétrica,D1-03,
+2023103,MAP3121,Métodos Numéricos e Aplicações,Pedro da Silva Peixoto,2023-03-13,2023-07-15,eletrica-manual,qua,09:20,11:00,Elétrica,D1-03,
+2023101,PRO3811 ,Fundamentos de Administração,Marcelo Jose do Carmo,2023-03-13,2023-07-15,eletrica-manual,qua,13:10,14:50,Elétrica,GD-05,
+2023101,PRO3821 ,Fundamentos de Economia,João Amato Neto,2023-03-13,2023-07-15,eletrica-manual,ter,07:30,09:10,Elétrica,Anfiteatro,
+2023150,PCS3100,Introdução à Engenharia de Computação,Edson Satoshi Gomi,2023-03-13,2023-07-15,eletrica-manual,sex,13:10,16:40,Elétrica,C1-30,1
+2023104,PCS3110,Algoritmos e Estruturas de Dados para Engenharia Elétrica,Eduardo Raul Hruschka,2023-03-13,2023-07-15,eletrica-manual,seg,11:10,12:50,Elétrica,GD-06,1
+2023104,PCS3110,Algoritmos e Estruturas de Dados para Engenharia Elétrica,Eduardo Raul Hruschka,2023-03-13,2023-07-15,eletrica-manual,qua,11:10,12:50,Elétrica,D1-04,1
+2023108,PCS3111,Laboratório de Programação Orientada a Objetos para Engenharia Elétrica,Fabio Levy Siqueira,2023-03-13,2023-07-15,eletrica-manual,qua,08:20,11:00,Elétrica,LabProg,1
+2023109,PCS3111,Laboratório de Programação Orientada a Objetos para Engenharia Elétrica,Jaime Simão Sichman,2023-03-13,2023-07-15,eletrica-manual,ter,14:00,16:40,Elétrica,LabProg,1
+2023101,PCS3225,Sistemas Digitais II,Edson Satoshi Gomi,2023-03-13,2023-07-15,eletrica-manual,seg,09:20,11:00,Elétrica,D1-01,1
+2023101,PCS3225,Sistemas Digitais II,Edson Satoshi Gomi,2023-03-13,2023-07-15,eletrica-manual,qua,13:10,14:50,Elétrica,GD-06,1
+2023102,PCS3225,Sistemas Digitais II,Bruno de Carvalho Albertini,2023-03-13,2023-07-15,eletrica-manual,seg,09:20,11:00,Elétrica,C1-30,1
+2023102,PCS3225,Sistemas Digitais II,Bruno de Carvalho Albertini,2023-03-13,2023-07-15,eletrica-manual,qua,13:10,14:50,Elétrica,D1-04,1
+2023101,PCS3115,Sistemas Digitais I,Glauber De Bona,2023-03-13,2023-07-15,eletrica-manual,seg,15:00,16:40,Elétrica,D1-01,1
+2023101,PCS3115,Sistemas Digitais I,Glauber De Bona,2023-03-13,2023-07-15,eletrica-manual,qua,13:10,14:50,Elétrica,D1-01,1
+2023102,PCS3115,Sistemas Digitais I,Marcos Antonio Simplicio Junior,2023-03-13,2023-07-15,eletrica-manual,seg,15:00,16:40,Elétrica,D1-02,1
+2023102,PCS3115,Sistemas Digitais I,Marcos Antonio Simplicio Junior,2023-03-13,2023-07-15,eletrica-manual,qua,13:10,14:50,Elétrica,D1-02,1
+2023103,PCS3115,Sistemas Digitais I,Wilian França Costa,2023-03-13,2023-07-15,eletrica-manual,seg,15:00,16:40,Elétrica,D1-03,1
+2023103,PCS3115,Sistemas Digitais I,Wilian França Costa,2023-03-13,2023-07-15,eletrica-manual,qua,13:10,14:50,Elétrica,D1-03,1
+2023101,PCS3335,Laboratório Digital A,Tereza Cristina Melo de Brito Carvalho,2023-03-13,2023-07-15,eletrica-manual,seg,15:00,17:40,Elétrica,C1-17,1
+2023102,PCS3335,Laboratório Digital A,,2023-03-13,2023-07-15,eletrica-manual,seg,15:00,17:40,Elétrica,C1-17,1
+2023103,PCS3335,Laboratório Digital A,Bruno de Carvalho Albertini,2023-03-13,2023-07-15,eletrica-manual,ter,15:00,17:40,Elétrica,C1-17,1
+2023104,PCS3335,Laboratório Digital A,Glauber De Bona,2023-03-13,2023-07-15,eletrica-manual,ter,15:00,17:40,Elétrica,C1-17,1
+2023105,PCS3335,Laboratório Digital A,Pedro Luiz Pizzigatti Corrêa,2023-03-13,2023-07-15,eletrica-manual,qua,15:00,17:40,Elétrica,C1-17,1
+2023106,PCS3335,Laboratório Digital A,Jorge Rady de Almeida Junior,2023-03-13,2023-07-15,eletrica-manual,qua,15:00,17:40,Elétrica,C1-17,1
+2023107,PCS3335,Laboratório Digital A,Tereza Cristina Melo de Brito Carvalho,2023-03-13,2023-07-15,eletrica-manual,qui,09:20,12:00,Elétrica,C1-17,1
+2023108,PCS3335,Laboratório Digital A,Anarosa Alves Franco Brandão,2023-03-13,2023-07-15,eletrica-manual,qui,09:20,12:00,Elétrica,C1-17,1
+2023109,PCS3335,Laboratório Digital A,Pedro Luiz Pizzigatti Corrêa,2023-03-13,2023-07-15,eletrica-manual,qui,15:00,17:40,Elétrica,C1-17,1
+2023110,PCS3335,Laboratório Digital A,Glauber De Bona,2023-03-13,2023-07-15,eletrica-manual,qui,15:00,17:40,Elétrica,C1-17,1
+2023111,PCS3335,Laboratório Digital A,Jorge Rady de Almeida Junior,2023-03-13,2023-07-15,eletrica-manual,sex,15:00,17:40,Elétrica,C1-17,1
+2023112,PCS3335,Laboratório Digital A,Marco Tulio Carvalho de Andrade,2023-03-13,2023-07-15,eletrica-manual,sex,15:00,17:40,Elétrica,C1-17,1
+2023102,PCS3432,Laboratório de Processadores,Wilian França Costa,2023-03-13,2023-07-15,eletrica-manual,ter,08:20,12:00,Elétrica,C1-13,1
+2023103,PCS3432,Laboratório de Processadores,Wilian França Costa,2023-03-13,2023-07-15,eletrica-manual,sex,08:20,12:00,Elétrica,C1-13,1
+2023102,PCS3443,Laboratório de Engenharia de Software I,Solange Nice Alves de Souza,2023-03-13,2023-07-15,eletrica-manual,qui,08:20,12:00,Elétrica,LabES,1
+2023101,PCS3434,Laboratório de Redes de Computadores,Graça Bressan,2023-03-13,2023-07-15,eletrica-manual,qua,08:20,12:00,Elétrica,LabRedes,1
+2023101,PCS3528,Análise de Desempenho de Sistemas Computacionais,João Batista Camargo Júnior,2023-03-13,2023-07-15,eletrica-manual,qui,08:20,12:00,Elétrica,C1-49,1
+2023101,PCS3828,Análise de Desempenho de Sistemas Computacionais,João Batista Camargo Júnior,2023-03-13,2023-07-15,eletrica-manual,qui,08:20,12:00,Elétrica,C1-49,1
+2023101,PCS3544,Segurança da Informação,Marcos Antonio Simplicio Junior,2023-03-13,2023-07-15,eletrica-manual,qui,14:00,17:40,Elétrica,D1-04,1
+2023101,PCS3844,Segurança da Informação,Marcos Antonio Simplicio Junior,2023-03-13,2023-07-15,eletrica-manual,qui,14:00,17:40,Elétrica,D1-04,1
+2023101,PCS3519,Aplicações e Tecnologias em Automação,Jorge Luis Risco Becerra,2023-01-09,2023-04-20,eletrica-manual,ter,08:20,12:00,Elétrica,C1-49,1
+2023101,PCS3819,Aplicações e Tecnologias em Automação,Jorge Luis Risco Becerra,2023-01-09,2023-04-20,eletrica-manual,ter,08:20,12:00,Elétrica,C1-49,1
+2023101,PCS3556,Lógica Computacional,Ricardo Luis de Azevedo da Rocha,2023-01-09,2023-04-20,eletrica-manual,seg,08:20,12:00,Elétrica,C1-49,1
+2023101,PCS3856,Lógica Computacional,Ricardo Luis de Azevedo da Rocha,2023-01-09,2023-04-20,eletrica-manual,seg,08:20,12:00,Elétrica,C1-49,1
+2023101,PCS3818,Engenharia de Sistema de Computação,Selma Shin Shimizu Melnikoff,2023-01-09,2023-04-20,eletrica-manual,sex,08:20,12:00,Elétrica,C1-49,1
+2023150,PCS3529,Criação e Administração de Empresas de Computação,Edson Fregni,2023-01-09,2023-04-20,eletrica-manual,ter,14:00,17:40,Elétrica,C1-49,1
+2023150,PCS3829,Criação e Administração de Empresas de Computação,Edson Fregni,2023-01-09,2023-04-20,eletrica-manual,ter,14:00,17:40,Elétrica,C1-49,1
+2023101,PCS3553,Laboratório de Engenharia de Software II,Jorge Luis Risco Becerra,2023-01-09,2023-04-20,eletrica-manual,qua,14:00,17:40,Elétrica,LabES,1
+2023101,PCS3853,Laboratório de Engenharia de Software II,Jorge Luis Risco Becerra,2023-01-09,2023-04-20,eletrica-manual,qua,14:00,17:40,Elétrica,LabES,1
+2023150,PCS3548,Sistemas Embarcados,Bruno de Carvalho Albertini,2023-01-09,2023-04-20,eletrica-manual,sex,14:00,17:40,Elétrica,C1-49,1
+2023150,PCS3848,Sistemas Embarcados,Bruno de Carvalho Albertini,2023-01-09,2023-04-20,eletrica-manual,sex,14:00,17:40,Elétrica,C1-49,1
+2023101,PCS2305,Laboratório Digital I,Edith Ranzini,2023-03-13,2023-07-15,eletrica-manual,qua,14:00,17:40,Elétrica,C1-13,1
+2023101,PCS3635,Laboratório Digital I,Edson Toshimi Midorikawa,2023-01-09,2023-04-20,eletrica-manual,seg,08:20,12:00,Elétrica,C1-17,1
+2023102,PCS3635,Laboratório Digital I,Edson Toshimi Midorikawa,2023-01-09,2023-04-20,eletrica-manual,seg,08:20,12:00,Elétrica,C1-17,1
+2023103,PCS3635,Laboratório Digital I,Reginaldo Arakaki,2023-01-09,2023-04-20,eletrica-manual,qua,08:20,12:00,Elétrica,C1-17,1
+2023104,PCS3635,Laboratório Digital I,Paulo Sergio Cugnasca,2023-01-09,2023-04-20,eletrica-manual,qua,08:20,12:00,Elétrica,C1-17,1
+2023150,PCS3623,Banco de Dados I,Jorge Rady de Almeida Junior,2023-01-09,2023-04-20,eletrica-manual,ter,16:00,17:40,Elétrica,C1-30,1
+2023150,PCS3623,Banco de Dados I,Jorge Rady de Almeida Junior,2023-01-09,2023-04-20,eletrica-manual,qui,16:00,17:40,Elétrica,C1-30,1
+2023150,PCS3616TV,Sistemas de Programação,Ricardo Luis de Azevedo da Rocha,2023-01-09,2023-04-20,eletrica-manual,ter,14:00,15:40,Elétrica,C1-30,1
+2023150,PCS3616TV,Sistemas de Programação,Ricardo Luis de Azevedo da Rocha,2023-01-09,2023-04-20,eletrica-manual,qui,14:00,15:40,Elétrica,C1-30,1
+2023151,PCS3616PV,Sistemas de Programação,Ricardo Luis de Azevedo da Rocha,2023-01-09,2023-04-20,eletrica-manual,seg,14:00,15:40,Elétrica,LabProg,1
+2023152,PCS3616PV,Sistemas de Programação,Ricardo Luis de Azevedo da Rocha,2023-01-09,2023-04-20,eletrica-manual,qua,14:00,15:40,Elétrica,LabProg,1
+2023150,PTC3007,Sistemas e Sinais,Cinthia Itiki,2023-01-09,2023-04-20,eletrica-manual,ter,10:20,12:00,Elétrica,C1-30,1
+2023150,PTC3007,Sistemas e Sinais,Cinthia Itiki,2023-01-09,2023-04-20,eletrica-manual,qui,10:20,12:00,Elétrica,C1-30,1
+2023101,MAP3122,Métodos Numéricos e Aplicações,Alexandre Megiorin Roma,2023-01-09,2023-04-20,eletrica-manual,ter,08:20,10:00,Elétrica,C1-30,
+2023101,MAP3122,Métodos Numéricos e Aplicações,Alexandre Megiorin Roma,2023-01-09,2023-04-20,eletrica-manual,qui,08:20,10:00,Elétrica,C1-30,
+2023101,PSI3031,Laboratório de Circuitos Elétricos,Eduardo Coelho Marques da Costa,2023-01-09,2023-04-20,eletrica-manual,seg,14:00,17:40,Elétrica,LabPSI,
+2023102,PSI3031,Laboratório de Circuitos Elétricos,Roberto Koji Onmori,2023-01-09,2023-04-20,eletrica-manual,qua,14:00,17:40,Elétrica,LabPSI,
+2023103,PSI3031,Laboratório de Circuitos Elétricos,Eduardo Coelho Marques da Costa,2023-01-09,2023-04-20,eletrica-manual,seg,14:00,17:40,Elétrica,LabPSI,
+2023104,PSI3031,Laboratório de Circuitos Elétricos,Roberto Koji Onmori,2023-01-09,2023-04-20,eletrica-manual,qua,14:00,17:40,Elétrica,LabPSI,
+2023150,PCS3746,Sistemas Operacionais,João José Neto,2023-05-02,2023-08-18,eletrica-manual,seg,14:00,15:40,Elétrica,C1-30,
+2023150,PCS3746,Sistemas Operacionais,João José Neto,2023-05-02,2023-08-18,eletrica-manual,sex,10:20,12:00,Elétrica,C1-30,
+2023150,PCS3722,Organização e Arquitetura de Computadores II,Cíntia Borges Margi,2023-05-02,2023-08-18,eletrica-manual,seg,16:00,17:40,Elétrica,C1-30,
+2023150,PCS3722,Organização e Arquitetura de Computadores II,Cíntia Borges Margi,2023-05-02,2023-08-18,eletrica-manual,qua,16:00,17:40,Elétrica,C1-30,
+2023150,PCS3724,Redes de Computadores II,Regina Melo Silveira,2023-05-02,2023-08-18,eletrica-manual,qua,14:00,15:40,Elétrica,C1-30,
+2023150,PCS3724,Redes de Computadores II,Regina Melo Silveira,2023-05-02,2023-08-18,eletrica-manual,sex,08:20,10:00,Elétrica,C1-30,
+2023101,PRO3826,Fundamentos de Economia,João Eduardo de Morais Pinto Furtado,2023-05-02,2023-08-18,eletrica-manual,qua,10:20,12:00,Elétrica,C1-30,
+2023101,PRO3816,Fundamentos de Economia,João Eduardo de Morais Pinto Furtado,2023-05-02,2023-08-18,eletrica-manual,qui,10:20,12:00,Elétrica,C1-30,
+2023101,PCS3734,Laboratório de Redes de Computadores,Graça Bressan,2023-05-02,2023-08-18,eletrica-manual,seg,08:20,10:00,Elétrica,LabRedes,
+2023102,PCS3734,Laboratório de Redes de Computadores,Graça Bressan,2023-05-02,2023-08-18,eletrica-manual,ter,08:20,10:00,Elétrica,LabRedes,
+2023101,PCS3732,Laboratório de Processadores,Andre Riyuiti Hirakawa,2023-05-02,2023-08-18,eletrica-manual,ter,14:00,17:40,Elétrica,LabProc,
+2023102,PCS3732,Laboratório de Processadores,Andre Riyuiti Hirakawa,2023-05-02,2023-08-18,eletrica-manual,qui,14:00,17:40,Elétrica,LabProc,
+2023150,PTC2020,Sistemas de Controle,,2023-05-02,2023-08-18,eletrica-manual,qua,08:20,10:00,Elétrica,C1-30,
+2023150,PTC2020,Sistemas de Controle,,2023-05-02,2023-08-18,eletrica-manual,qui,08:20,10:00,Elétrica,C1-30,
+20231,0323200,Práticas de Eletricidade e Eletrônica,Ronaldo Domingues Mansano,2023-03-13,2023-07-15,eletrica-manual,seg,07:30,11:00,Elétrica,C1-10,
+20231,0323201,Laboratório de Projetos em Eletricidade e Eletrônica,Ronaldo Domingues Mansano,2023-03-13,2023-07-15,eletrica-manual,qua,11:10,12:50,Elétrica,C1-05,
+2023101,PSI3211,Circuitos Elétricos I,Miguel Arjona Ramirez,2023-03-13,2023-07-15,eletrica-manual,seg,13:10,14:50,Elétrica,D1-01,
+2023101,PSI3211,Circuitos Elétricos I,Miguel Arjona Ramirez,2023-03-13,2023-07-15,eletrica-manual,qua,15:00,16:40,Elétrica,D1-01,
+2023102,PSI3211,Circuitos Elétricos I,Wagner Luiz Zucchi,2023-03-13,2023-07-15,eletrica-manual,seg,13:10,14:50,Elétrica,D1-02,
+2023102,PSI3211,Circuitos Elétricos I,Wagner Luiz Zucchi,2023-03-13,2023-07-15,eletrica-manual,qua,15:00,16:40,Elétrica,D1-02,
+2023103,PSI3211,Circuitos Elétricos I,Elisabete Galeazzo,2023-03-13,2023-07-15,eletrica-manual,seg,13:10,14:50,Elétrica,D1-03,
+2023103,PSI3211,Circuitos Elétricos I,Elisabete Galeazzo,2023-03-13,2023-07-15,eletrica-manual,qua,15:00,16:40,Elétrica,D1-03,
+2023104,PSI3211,Circuitos Elétricos I,Flávio Almeida de Magalhães Cipparrone,2023-03-13,2023-07-15,eletrica-manual,qua,15:00,16:40,Elétrica,D1-04,
+2023104,PSI3211,Circuitos Elétricos I,Flávio Almeida de Magalhães Cipparrone,2023-03-13,2023-07-15,eletrica-manual,sex,13:10,14:50,Elétrica,D1-04,
+2023105,PSI3211,Circuitos Elétricos I,Magno Teófilo Madeira da Silva,2023-03-13,2023-07-15,eletrica-manual,qua,15:00,16:40,Elétrica,GD-06,
+2023105,PSI3211,Circuitos Elétricos I,Magno Teófilo Madeira da Silva,2023-03-13,2023-07-15,eletrica-manual,sex,13:10,14:50,Elétrica,GD-06,
+2023101,PSI3212,Laboratório de Circuitos Elétricos,Walter Jaimes Salcedo,2023-03-13,2023-07-15,eletrica-manual,ter,07:30,11:00,Elétrica,C1-03,
+2023102,PSI3212,Laboratório de Circuitos Elétricos,Leopoldo Rideki Yoshioka,2023-03-13,2023-07-15,eletrica-manual,ter,07:30,11:00,Elétrica,C1-10,
+2023103,PSI3212,Laboratório de Circuitos Elétricos,Roberto Koji Onmori,2023-03-13,2023-07-15,eletrica-manual,qua,07:30,11:00,Elétrica,C1-03,
+2023104,PSI3212,Laboratório de Circuitos Elétricos,Inês Pereyra,2023-03-13,2023-07-15,eletrica-manual,qua,07:30,11:00,Elétrica,C1-10,
+2023105,PSI3212,Laboratório de Circuitos Elétricos,Laisa Caroline Costa de Biase,2023-03-13,2023-07-15,eletrica-manual,qui,07:30,11:00,Elétrica,C1-03,
+2023106,PSI3212,Laboratório de Circuitos Elétricos,Marcio Lobo Netto,2023-03-13,2023-07-15,eletrica-manual,qui,07:30,11:00,Elétrica,C1-10,
+2023107,PSI3212,Laboratório de Circuitos Elétricos,Elisabete Galeazzo,2023-03-13,2023-07-15,eletrica-manual,sex,07:30,11:00,Elétrica,C1-03,
+2023108,PSI3212,Laboratório de Circuitos Elétricos,Laisa Caroline Costa de Biase,2023-03-13,2023-07-15,eletrica-manual,sex,13:10,16:40,Elétrica,C1-10,
+2023101,PSI3213,Circuitos Elétricos II,João Francisco Justo Filho,2023-03-13,2023-07-15,eletrica-manual,seg,07:30,09:10,Elétrica,D1-04,
+2023101,PSI3213,Circuitos Elétricos II,João Francisco Justo Filho,2023-03-13,2023-07-15,eletrica-manual,qua,07:30,09:10,Elétrica,GD-06,
+2023101,PSI3321,Eletrônica I,Antonio Carlos Seabra,2023-03-13,2023-07-15,eletrica-manual,ter,09:20,11:00,Elétrica,D1-01,
+2023101,PSI3321,Eletrônica I,Antonio Carlos Seabra,2023-03-13,2023-07-15,eletrica-manual,sex,07:30,09:10,Elétrica,D1-01,
+2023102,PSI3321,Eletrônica I,Armando Antonio Maria Lagana,2023-03-13,2023-07-15,eletrica-manual,ter,09:20,11:00,Elétrica,D1-02,
+2023102,PSI3321,Eletrônica I,Armando Antonio Maria Lagana,2023-03-13,2023-07-15,eletrica-manual,sex,07:30,09:10,Elétrica,D1-02,
+2023103,PSI3321,Eletrônica I,Marcelo Knorich Zuffo,2023-03-13,2023-07-15,eletrica-manual,ter,09:20,11:00,Elétrica,D1-03,
+2023103,PSI3321,Eletrônica I,Marcelo Knorich Zuffo,2023-03-13,2023-07-15,eletrica-manual,sex,07:30,09:10,Elétrica,D1-03,
+2023101,PSI3322,Eletrônica II,Sebastião Gomes dos Santos Filho,2023-03-13,2023-07-15,eletrica-manual,seg,18:00,19:40,Elétrica,D1-03,
+2023101,PSI3322,Eletrônica II,Sebastião Gomes dos Santos Filho,2023-03-13,2023-07-15,eletrica-manual,qua,18:00,19:40,Elétrica,D1-03,
+2023101,PSI3431,Processamento Estatístico de Sinais,Vitor Heloiz Nascimento,2023-03-13,2023-07-15,eletrica-manual,seg,11:10,12:50,Elétrica,GD-04,
+2023101,PSI3431,Processamento Estatístico de Sinais,Vitor Heloiz Nascimento,2023-03-13,2023-07-15,eletrica-manual,ter,10:10,11:50,Elétrica,GD-04,
+2023101,PSI3431,Processamento Estatístico de Sinais,Vitor Heloiz Nascimento,2023-03-13,2023-07-15,eletrica-manual,qua,07:30,09:10,Elétrica,GD-04,
+2023101,PSI3431,Processamento Estatístico de Sinais,Vitor Heloiz Nascimento,2023-03-13,2023-07-15,eletrica-manual,sex,07:30,09:10,Elétrica,GD-04,
+2023101,PSI3441,Arquitetura de Sistemas Embarcados,Gustavo Pamplona Rehder,2023-03-13,2023-07-15,eletrica-manual,seg,11:10,12:50,Elétrica,GD-04,
+2023101,PSI3441,Arquitetura de Sistemas Embarcados,Gustavo Pamplona Rehder,2023-03-13,2023-07-15,eletrica-manual,ter,10:10,11:50,Elétrica,GD-04,
+2023101,PSI3441,Arquitetura de Sistemas Embarcados,Gustavo Pamplona Rehder,2023-03-13,2023-07-15,eletrica-manual,qua,07:30,09:10,Elétrica,GD-04,
+2023101,PSI3451,Projeto de Circuitos Lógicos Integrados,Wang Jiang Chau,2023-03-13,2023-07-15,eletrica-manual,qui,08:20,12:00,Elétrica,GD-04,
+2023102,PSI3451,Projeto de Circuitos Lógicos Integrados,Wang Jiang Chau,2023-03-13,2023-07-15,eletrica-manual,qui,13:10,16:40,Elétrica,GD-04,
+2023101,PSI3460,Laboratório de Circuitos Eletrônicos,Gustavo Pamplona Rehder,2023-03-13,2023-07-15,eletrica-manual,ter,13:10,16:40,Elétrica,C1-10,
+2023101,PSI3471,Fundamentos de Sistemas Eletrônicos Inteligentes,Hae Yong Kim,2023-03-13,2023-07-15,eletrica-manual,seg,09:20,11:00,Elétrica,D1-04,
+2023101,PSI3471,Fundamentos de Sistemas Eletrônicos Inteligentes,Hae Yong Kim,2023-03-13,2023-07-15,eletrica-manual,qua,11:10,12:50,Elétrica,GD-06,
+2023101,PSI3481,Sistemas Ópticos e de Micro-ondas,Fatima Salete Correra,2023-03-13,2023-07-15,eletrica-manual,seg,07:30,09:10,Elétrica,GD-04,
+2023101,PSI3481,Sistemas Ópticos e de Micro-ondas,Fatima Salete Correra,2023-03-13,2023-07-15,eletrica-manual,qua,09:20,11:00,Elétrica,GD-04,
+2023101,PSI3541,Sistemas Embarcados Distribuídos,Sergio Takeo Kofuji,2023-03-13,2023-07-15,eletrica-manual,ter,16:50,18:30,Elétrica,GD-04,
+2023101,PSI3551,Projeto de Sistemas Embarcados em Chips,Wang Jiang Chau,2023-03-13,2023-07-15,eletrica-manual,qua,15:00,18:30,Elétrica,GD-04,
+2023101,PSI3560,Sistemas Cognitivos,Marcio Lobo Netto,2023-03-13,2023-07-15,eletrica-manual,ter,07:30,11:00,Elétrica,C1-05,
+2023101,PSI3561,Eletrônica Automotiva,Armando Antonio Maria Lagana,2023-03-13,2023-07-15,eletrica-manual,qui,07:30,11:00,Elétrica,C1-05,
+2023101,PSI3581,Circuitos de Micro-Ondas,Fatima Salete Correra,2023-03-13,2023-07-15,eletrica-manual,qui,15:00,18:30,Elétrica,C1-05,

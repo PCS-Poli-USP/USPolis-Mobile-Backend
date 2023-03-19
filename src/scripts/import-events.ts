@@ -1,16 +1,63 @@
 import fs from 'fs'
 import { parse } from 'csv-parse'
-import { PrismaClient } from '@prisma/client';
-import { Event } from '../types';
+import { Schema, model, connect } from 'mongoose';
+import { format } from 'date-fns'
 
-const prisma = new PrismaClient();
+
+interface IEvent {
+  class_code?: string,
+  subject_code?: string,
+  subject_name?: string,
+  week_day?: string,
+  class_type?: string,
+  start_period?: string,
+  end_period?: string,
+  start_time?: string,
+  end_time?: string,
+  has_to_be_allocated?: boolean
+  pendings?: number
+  subscribers?: number,
+  vacancies?: number,
+  created_by?: string,
+  updated_at?: string,
+  preferences?: any,
+  professor?: string,
+  classroom?: string,
+  building?: string,
+}
+
+// 2. Create a Schema corresponding to the document interface.
+const eventSchema = new Schema<IEvent>({
+  class_code: String,
+  subject_code: String,
+  subject_name: String,
+  week_day: String,
+  class_type: String,
+  start_period: String,
+  end_period: String,
+  start_time: String,
+  end_time: String,
+  has_to_be_allocated: Boolean,
+  pendings: Number,
+  subscribers: Number,
+  vacancies: Number,
+  created_by: String,
+  updated_at: String,
+  preferences: Object,
+  professor: String,
+  classroom: String,
+  building: String,
+});
+
+// 3. Create a Model.
+const Event = model<IEvent>('events', eventSchema);
 
 export const importEvents = async () => {
   console.log('[RUNNING SCRIPT] importEvents')
 
-  const allRows: Event[] = []
+  const allRows: any[] = []
 
-  fs.createReadStream('./src/files/events.csv')
+  fs.createReadStream('./src/files/Alocações elétrica - unificado.csv')
     .pipe(parse({ delimiter: ',', from_line: 2 }))
     .on('data', (row) => {
       allRows.push({
@@ -32,7 +79,7 @@ export const importEvents = async () => {
         
         // Verificar se o formato da data vem correto
         created_by: row[6],
-        updated_at: new Date().toString(),
+        updated_at: format(new Date(), "dd/MM/yyyy HH:mm"),
         
         // Parametros colocados de maneira duvidosa:
         class_type: '',
@@ -40,10 +87,15 @@ export const importEvents = async () => {
         vacancies: 0,
         pendings: 0,
         subscribers: 0,
-        preferences: null,
+        preferences: {
+          accessibility: false,
+          air_conditioning: false,
+          building: "Elétrica",
+          projector: false
+        },
 
         // Mudar ID para correto
-        id: 'Teste'
+        // id: v4().replace(/-/gi, '')
       })
     })
     .on('end', () => {
@@ -55,17 +107,16 @@ export const importEvents = async () => {
       console.log(error)
     })
 
-  // const createdClasses = await prisma.events.findMany()
-  // const eventsToBeCreated = removeDuplicateEvents(allRows, createdClasses)
+  await connect("mongodb://localhost:27017/uspolis");
 
-  // const classes = await prisma.events.createMany({
-  //   data: eventsToBeCreated
-  // })
+  const createdClasses = await Event.find()
+  const eventsToBeCreated = removeDuplicateEvents(allRows, createdClasses)
 
-  // console.log('Created classes:', classes)
+  const classes = await Event.insertMany(eventsToBeCreated)
+  console.log('Created classes:', classes)
 }
 
-const removeDuplicateEvents = (newEvents: Event[], events: Event[]) => {
+const removeDuplicateEvents = (newEvents: any[], events: any[]) => {
   const eventsToBeCreated = newEvents.filter(newEvent => {
     const eventExists = events.find(event => (
       event.class_code === newEvent.class_code &&
