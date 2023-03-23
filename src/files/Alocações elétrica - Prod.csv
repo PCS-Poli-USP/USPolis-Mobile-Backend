@@ -1,0 +1,44 @@
+class_code,subject_code,subject_name,professor,start_period,end_period,created_by,week_day,start_time,end_time,building,classroom,floor
+2023101,PRO3443,Projeto de Fábrica,(R) Dario Ikuo Miyake,2023-03-13,2023-07-15,producao-manual,seg,07:30,11:00,Produção,D2-013,1
+2023102,PRO3443,Projeto de Fábrica,(R) Dario Ikuo Miyake,2023-03-13,2023-07-15,producao-manual,seg,07:30,11:00,Produção,D2-014,1
+2023101,PRO3432,Organização do Trabalho na Produção,Afonso Carlos Correa Fleury,2023-03-13,2023-07-15,producao-manual,seg,13:10,14:50,Produção,D2-013,1
+2023101,PRO3432,Organização do Trabalho na Produção,Afonso Carlos Correa Fleury,2023-03-13,2023-07-15,producao-manual,qui,09:20,11:00,Produção,D2-013,1
+2023101,PRO3341,Modelagem e Otimização de Sistemas de Produção,(R) Debora Pretti Ronconi,2023-03-13,2023-07-15,producao-manual,ter,13:10,14:50,Produção,D2-013,1
+2023101,PRO3341,Modelagem e Otimização de Sistemas de Produção,(R) Debora Pretti Ronconi,2023-03-13,2023-07-15,producao-manual,qui,15:00,16:40,Produção,D2-013,1
+2023102,PRO3341,Modelagem e Otimização de Sistemas de Produção,Celma de Oliveira Ribeiro,2023-03-13,2023-07-15,producao-manual,ter,13:10,14:50,Produção,D2-014,1
+2023102,PRO3341,Modelagem e Otimização de Sistemas de Produção,Celma de Oliveira Ribeiro,2023-03-13,2023-07-15,producao-manual,qua,07:30,09:10,Produção,D2-014,1
+2023101,PME3398,Fundamentos de Termodinâmica e Transferência de Calor,(R) Antonio Luiz Pacifico,2023-03-13,2023-07-15,producao-manual,qua,09:20,11:00,Produção,D2-013,1
+2023101,PME3398,Fundamentos de Termodinâmica e Transferência de Calor,(R) Antonio Luiz Pacifico,2023-03-13,2023-07-15,producao-manual,sex,09:20,11:00,Produção,D2-013,1
+2023102,PME3398,Fundamentos de Termodinâmica e Transferência de Calor,Fernando Luiz Sacomano Filho,2023-03-13,2023-07-15,producao-manual,qua,09:20,11:00,Produção,D2-014,1
+2023102,PME3398,Fundamentos de Termodinâmica e Transferência de Calor,Fernando Luiz Sacomano Filho,2023-03-13,2023-07-15,producao-manual,sex,09:20,11:00,Produção,D2-014,1
+2023101,PRO3475,Gestão de Projetos,(R) Marly Monteiro de Carvalho,2023-03-13,2023-07-15,producao-manual,qua,13:10,14:50,Produção,AMBEV ON,1
+2023101,PRO3475,Gestão de Projetos,(R) Marly Monteiro de Carvalho,2023-03-13,2023-07-15,producao-manual,qua,15:00,16:40,Produção,OCEAN,1
+2023102,PRO3475,Gestão de Projetos,(R) Renato de Oliveira Moraes,2023-03-13,2023-07-15,producao-manual,qua,13:10,14:50,Produção,D2-013,1
+2023102,PRO3475,Gestão de Projetos,(R) Renato de Oliveira Moraes,2023-03-13,2023-07-15,producao-manual,qua,15:00,16:40,Produção,OCEAN,1
+2023101,PRO3371,Controle da Qualidade,(R) Alberto Wunderler Ramos,2023-03-13,2023-07-15,producao-manual,qui,07:30,09:10,Produção,D2-013,1
+2023101,PRO3371,Controle da Qualidade,(R) Alberto Wunderler Ramos,2023-03-13,2023-07-15,producao-manual,sex,07:30,09:10,Produção,D2-013,1
+2023102,PRO3371,Controle da Qualidade,(R) Linda Lee Ho,2023-03-13,2023-07-15,producao-manual,qui,07:30,09:10,Produção,D2-014,1
+2023102,PRO3371,Controle da Qualidade,(R) Linda Lee Ho,2023-03-13,2023-07-15,producao-manual,sex,07:30,09:10,Produção,D2-014,1
+2023101,PRO3434,Ergonomia em Projetos de Engenharia,(R) Uiara Bandineli Montedo,2023-03-13,2023-07-15,producao-manual,seg,13:10,14:50,Produção,D2-014,1
+2023101,PRO3821,Fundamentos de Economia,João Amato Neto,2023-03-13,2023-07-15,producao-manual,ter,07:30,09:10,Produção,D2-014,1
+2023101,PRO3261,Contabilidade e Custos,(R) Mauro Zilbovicius,2023-03-13,2023-07-15,producao-manual,qua,13:10,14:50,Produção,D2-014,1
+2023101,PRO3261,Contabilidade e Custos,(R) Mauro Zilbovicius,2023-03-13,2023-07-15,producao-manual,sex,13:10,14:50,Produção,D2-014,1
+2023112,0303200,Probabilidade,Renato de Oliveira Moraes,2023-03-13,2023-07-15,producao-manual,ter,07:30,09:10,Produção,D2-015,1
+2023101,PRO3160,Introdução à Economia,(R) João Eduardo de Morais Pinto Furtado,2023-03-13,2023-07-15,producao-manual,seg,13:10,14:50,Produção,D2-015,1
+2023101,PRO3160,Introdução à Economia,(R) João Eduardo de Morais Pinto Furtado,2023-03-13,2023-07-15,producao-manual,qua,15:00,16:40,Produção,D2-015,1
+2023101,PRO3363,Economia de Empresas,(R) Reinaldo Pacheco da Costa,2023-03-13,2023-07-15,producao-manual,seg,15:00,16:40,Produção,D2-015,1
+2023101,PRO3363,Economia de Empresas,(R) Reinaldo Pacheco da Costa,2023-03-13,2023-07-15,producao-manual,qui,13:10,14:50,Produção,D2-015,1
+2023101,PRO3445,Planejamento e Controle da Produção,(R) Daniel de Oliveira Mota,2023-03-13,2023-07-15,producao-manual,qui,07:30,09:10,Produção,D2-015,1
+2023101,PRO3445,Planejamento e Controle da Produção,(R) Daniel de Oliveira Mota,2023-03-13,2023-07-15,producao-manual,sex,07:30,09:10,Produção,D2-015,1
+2023104,PRO3811,Fundamentos de Administração,Marcelo Jose do Carmo,2023-03-13,2023-07-15,producao-manual,sex,15:00,16:40,Produção,D2-015,1
+2023102,PRO3811,Fundamentos de Administração,Artur Vilas Boas,2023-03-13,2023-07-15,producao-manual,seg,13:10,14:50,Produção,D2-114,1
+2023101,PRO3810,Introdução à Administração,Ana Cristina Limongi Franca,2023-03-13,2023-07-15,producao-manual,ter,07:30,09:10,Produção,D2-114,1
+2023101,PRO3810,Introdução à Administração,Ana Cristina Limongi Franca,2023-03-13,2023-07-15,producao-manual,qui,07:30,09:10,Produção,D2-114,1
+2023104,PNV3100,Introdução à Engenharia,Mauro Zilbovicius,2023-03-13,2023-07-15,producao-manual,ter,13:10,16:40,Produção,D2-116,1
+2023101,PRO3200,Estatística,Celma de Oliveira Ribeiro,2023-03-13,2023-07-15,producao-manual,seg,11:10,12:50,Produção,OCEAN,1
+2023101,PRO3200,Estatística,Celma de Oliveira Ribeiro,2023-03-13,2023-07-15,producao-manual,qua,11:10,12:50,Produção,OCEAN,1
+2023101,PRO3587,"Inovação, Sociedade e Tecnologia",(R) Clovis Armando Alvarenga Netto,2023-03-13,2023-07-15,producao-manual,ter,11:10,12:50,Produção,OCEAN,1
+2023101,PRO3266,Desenvolvimento Econômico Brasileiro,(R) João Eduardo de Morais Pinto Furtado,2023-03-13,2023-07-15,producao-manual,seg,16:00,18:30,Produção,AMBEV ON,1
+2023101,PRO3534,Gestão de Operações em Serviços,(R) Clovis Armando Alvarenga Netto,2023-03-13,2023-07-15,producao-manual,ter,07:30,11:00,Produção,AMBEV ON,1
+2023101,PRO3582,Projeto de Novos Empreendimentos,(R) André Leme Fleury,2023-03-13,2023-07-15,producao-manual,qua,15:00,18:30,Produção,AMBEV ON,1
+2023101,PRO3584,"Projeto, Processo e Gestão da Inovação",(R) Mário Sérgio Salerno,2023-03-13,2023-07-15,producao-manual,qui,07:30,11:00,Produção,AMBEV ON,1
