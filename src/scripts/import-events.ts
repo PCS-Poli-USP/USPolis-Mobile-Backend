@@ -24,6 +24,7 @@ interface IEvent {
   professor?: string,
   classroom?: string,
   building?: string,
+  is_active?: boolean
 }
 
 // 2. Create a Schema corresponding to the document interface.
@@ -47,6 +48,7 @@ const eventSchema = new Schema<IEvent>({
   professor: String,
   classroom: String,
   building: String,
+  is_active: Boolean,
 });
 
 // 3. Create a Model.
@@ -57,7 +59,7 @@ export const importEvents = async () => {
 
   const allRows: any[] = []
 
-  fs.createReadStream('./src/files/Alocações elétrica - Civil.csv')
+  fs.createReadStream('./src/files/Alocações elétrica - Prod 2023.2.csv')
     .pipe(parse({ delimiter: ',', from_line: 2 }))
     .on('data', (row) => {
       allRows.push({
@@ -90,12 +92,15 @@ export const importEvents = async () => {
         preferences: {
           accessibility: false,
           air_conditioning: false,
-          building: "Civil",
+          building: "Produção",
           projector: false
         },
 
         // Mudar ID para correto
         // id: v4().replace(/-/gi, '')
+
+        // Parametro ativo
+        is_active: true,
       })
     })
     .on('end', () => {
