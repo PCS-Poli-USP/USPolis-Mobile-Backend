@@ -1,0 +1,84 @@
+class_code,subject_code,subject_name,professor,start_period,end_period,created_by,week_day,start_time,end_time,building,classroom,floor
+2023201,PME3110,Práticas de Oficina para Engenharia Mecânica,(R) Marcelo Augusto Leal Alves,2023-08-07,2023-12-21,mecanica-manual,qua,13:10,16:40,Mecânica,A02,1
+2023202,PME3110,Práticas de Oficina para Engenharia Mecânica,(R) Marcelo Augusto Leal Alves,2023-08-07,2023-12-21,mecanica-manual,qua,13:10,16:40,Mecânica,A02,1
+2023201,PME3120,Expressão Gráfica em Engenharia Mecânica,(R) Marcelo Augusto Leal Alves,2023-08-07,2023-12-21,mecanica-manual,seg,13:10,14:50,Mecânica,A07,1
+2023231,PME3120,Expressão Gráfica em Engenharia Mecânica,(R) Marcelo Augusto Leal Alves,2023-08-07,2023-12-21,mecanica-manual,ter,13:10,16:40,Mecânica,Oficina,1
+2023232,PME3120,Expressão Gráfica em Engenharia Mecânica,(R) Marcelo Augusto Leal Alves,2023-08-07,2023-12-21,mecanica-manual,ter,13:10,16:40,Mecânica,Oficina,1
+2023261,PME3120,Expressão Gráfica em Engenharia Mecânica,(R) Marcelo Augusto Leal Alves,2023-08-07,2023-12-21,mecanica-manual,sex,13:10,16:40,Mecânica,Oficina,1
+2023262,PME3120,Expressão Gráfica em Engenharia Mecânica,(R) Marcelo Augusto Leal Alves,2023-08-07,2023-12-21,mecanica-manual,sex,13:10,16:40,Mecânica,Oficina,1
+2023211,PME3201,Laboratório de Simulações Numéricas,(R) Flavius Portella Ribas Martins,2023-08-07,2023-12-21,mecanica-manual,qui,07:30,11:00,Mecânica,A01-A,1
+2023212,PME3201,Laboratório de Simulações Numéricas,(R) Flavius Portella Ribas Martins,2023-08-07,2023-12-21,mecanica-manual,qui,07:30,11:00,Mecânica,A01-A,1
+2023221,PME3201,Laboratório de Simulações Numéricas,(R) Flavius Portella Ribas Martins,2023-08-07,2023-12-21,mecanica-manual,sex,13:10,16:40,Mecânica,A01-A,1
+2023222,PME3201,Laboratório de Simulações Numéricas,(R) Flavius Portella Ribas Martins,2023-08-07,2023-12-21,mecanica-manual,sex,13:10,16:40,Mecânica,A01-A,1
+2023201,PME3230,Mecânica dos Fluidos I,Antonio Luis de Campos Mariani,2023-08-07,2023-12-21,mecanica-manual,qua,09:20,11:00,Mecânica,A07,1
+2023202,PME3230,Mecânica dos Fluidos I,Antonio Luis de Campos Mariani,2023-08-07,2023-12-21,mecanica-manual,qua,09:20,11:00,Mecânica,A09,1
+2023203,PME3230,Mecânica dos Fluidos I,Antonio Luis de Campos Mariani,2023-08-07,2023-12-21,mecanica-manual,seg,09:20,11:00,Mecânica,A07,1
+2023204,PME3230,Mecânica dos Fluidos I,Antonio Luis de Campos Mariani,2023-08-07,2023-12-21,mecanica-manual,seg,09:20,11:00,Mecânica,A02,1
+2023223,PME3230,Mecânica dos Fluidos I,Sergio Roberto Ceccato,2023-08-07,2023-12-21,mecanica-manual,seg,14:00,17:20,Mecânica,A08,1
+2023224,PME3230,Mecânica dos Fluidos I,Sergio Roberto Ceccato,2023-08-07,2023-12-21,mecanica-manual,seg,14:00,17:20,Mecânica,A08,1
+2023231,PME3230,Mecânica dos Fluidos I,Fernando Luiz Sacomano Filho,2023-08-07,2023-12-21,mecanica-manual,ter,07:30,11:00,Mecânica,A08,1
+2023232,PME3230,Mecânica dos Fluidos I,Fernando Luiz Sacomano Filho,2023-08-07,2023-12-21,mecanica-manual,ter,07:30,11:00,Mecânica,A08,1
+2023241,PME3230,Mecânica dos Fluidos I,Bruno Souza Carmo,2023-08-07,2023-12-21,mecanica-manual,qua,07:30,11:00,Mecânica,PNV,1
+2023243,PME3230,Mecânica dos Fluidos I,Bruno Souza Carmo,2023-08-07,2023-12-21,mecanica-manual,qua,07:30,11:00,Mecânica,PNV,1
+2023251,PME3230,Mecânica dos Fluidos I,Bruno Souza Carmo,2023-08-07,2023-12-21,mecanica-manual,qui,07:30,11:00,Mecânica,A08,1
+2023253,PME3230,Mecânica dos Fluidos I,Bruno Souza Carmo,2023-08-07,2023-12-21,mecanica-manual,qui,07:30,11:00,Mecânica,A08,1
+2023252,PME3230,Mecânica dos Fluidos I,Bruno Souza Carmo,2023-08-07,2023-12-21,mecanica-manual,qui,07:30,11:00,Mecânica,A08,1
+2023261,PME3230,Mecânica dos Fluidos I,Antonio Luiz Pacifico,2023-08-07,2023-12-21,mecanica-manual,sex,07:30,11:00,Mecânica,A07,1
+2023262,PME3230,Mecânica dos Fluidos I,Antonio Luiz Pacifico,2023-08-07,2023-12-21,mecanica-manual,sex,07:30,11:00,Mecânica,A07,1
+2023264,PME3230,Mecânica dos Fluidos I,Antonio Luiz Pacifico,2023-08-07,2023-12-21,mecanica-manual,sex,07:30,11:00,Mecânica,A07,1
+2023265,PME3230,Mecânica dos Fluidos I,Alberto Hernandez Neto,2023-08-07,2023-12-21,mecanica-manual,sex,13:10,16:40,Mecânica,A08,1
+2023267,PME3230,Mecânica dos Fluidos I,Alberto Hernandez Neto,2023-08-07,2023-12-21,mecanica-manual,sex,13:10,16:40,Mecânica,A08,1
+2023201,PME3332,"Mecânica dos Fluidos : Noções, Laboratório e Aplicações",Fábio Saltara,2023-08-07,2023-12-21,mecanica-manual,qua,15:00,16:40,Mecânica,A07,1
+2023202,PME3332,"Mecânica dos Fluidos : Noções, Laboratório e Aplicações",Fábio Saltara,2023-08-07,2023-12-21,mecanica-manual,qui,15:00,16:40,Mecânica,A07,1
+2023203,PME3332,"Mecânica dos Fluidos : Noções, Laboratório e Aplicações",Fábio Saltara,2023-08-07,2023-12-21,mecanica-manual,sex,15:00,16:40,Mecânica,A07,1
+2023201,PME3341,Termodinâmica II,(R) Silvio de Oliveira Junior,2023-08-07,2023-12-21,mecanica-manual,seg,07:30,09:10,Mecânica,A02,1
+2023201,PME3341,Termodinâmica II,(R) Silvio de Oliveira Junior,2023-08-07,2023-12-21,mecanica-manual,qua,07:30,09:10,Mecânica,A02,1
+2023201,PME3350,Elementos de Máquinas I,(R) Marcelo Augusto Leal Alves,2023-08-07,2023-12-21,mecanica-manual,ter,09:20,11:00,Mecânica,A09,1
+2023201,PME3350,Elementos de Máquinas I,(R) Marcelo Augusto Leal Alves,2023-08-07,2023-12-21,mecanica-manual,sex,07:30,09:10,Mecânica,A09,1
+2023201,PME3360,Transferência de Calor,(R) Guenther Carlos Krieger Filho,2023-08-07,2023-12-21,mecanica-manual,qua,09:20,11:00,Mecânica,A02,1
+2023201,PME3360,Transferência de Calor,(R) Guenther Carlos Krieger Filho,2023-08-07,2023-12-21,mecanica-manual,sex,09:20,11:00,Mecânica,A02,1
+2023202,PME3360,Transferência de Calor,(R) Maurício Silva Ferreira,2023-08-07,2023-12-21,mecanica-manual,qua,09:20,11:00,Mecânica,A03,1
+2023202,PME3360,Transferência de Calor,(R) Maurício Silva Ferreira,2023-08-07,2023-12-21,mecanica-manual,sex,09:20,11:00,Mecânica,A03,1
+2023201,PME3361,Transferência de Calor e Massa,(R) José Roberto Simões Moreira,2023-08-07,2023-12-21,mecanica-manual,seg,09:20,11:00,Mecânica,A08,1
+2023201,PME3361,Transferência de Calor e Massa,(R) José Roberto Simões Moreira,2023-08-07,2023-12-21,mecanica-manual,qua,09:20,11:00,Mecânica,A08,1
+2023202,PME3361,Transferência de Calor e Massa,Marcos Pimenta,2023-08-07,2023-12-21,mecanica-manual,seg,09:20,11:00,Mecânica,A10-A,1
+2023202,PME3361,Transferência de Calor e Massa,Marcos Pimenta,2023-08-07,2023-12-21,mecanica-manual,qua,09:20,11:00,Mecânica,A10-A,1
+2023221,PME3361,Transferência de Calor e Massa,Arlindo Tribess,2023-08-07,2023-12-21,mecanica-manual,seg,13:10,16:40,Mecânica,TS09,2
+2023222,PME3361,Transferência de Calor e Massa,Arlindo Tribess,2023-08-07,2023-12-21,mecanica-manual,seg,13:10,16:40,Mecânica,TS09,2
+2023241,PME3361,Transferência de Calor e Massa,Arlindo Tribess,2023-08-07,2023-12-21,mecanica-manual,qua,13:10,16:40,Mecânica,TS09,2
+2023242,PME3361,Transferência de Calor e Massa,Arlindo Tribess,2023-08-07,2023-12-21,mecanica-manual,qua,13:10,16:40,Mecânica,TS09,2
+2023201,PME3380,Modelagem de Sistemas Dinâmicos,(R) Agenor de Toledo Fleury,2023-08-07,2023-12-21,mecanica-manual,ter,11:10,12:50,Mecânica,A08,1
+2023201,PME3380,Modelagem de Sistemas Dinâmicos,(R) Agenor de Toledo Fleury,2023-08-07,2023-12-21,mecanica-manual,qui,11:10,12:50,Mecânica,A08,1
+2023202,PME3380,Modelagem de Sistemas Dinâmicos,(R) Agenor de Toledo Fleury,2023-08-07,2023-12-21,mecanica-manual,ter,11:10,12:50,Mecânica,A07,1
+2023202,PME3380,Modelagem de Sistemas Dinâmicos,(R) Agenor de Toledo Fleury,2023-08-07,2023-12-21,mecanica-manual,qui,11:10,12:50,Mecânica,A07,1
+2023231,PME3402,Laboratório de Medição e Controle Discreto,(R) Flavio Celso Trigo,2023-08-07,2023-12-21,mecanica-manual,ter,13:10,16:40,Mecânica,A01-A,1
+2023232,PME3402,Laboratório de Medição e Controle Discreto,(R) Flavio Celso Trigo,2023-08-07,2023-12-21,mecanica-manual,ter,13:10,16:40,Mecânica,A01-A,1
+2023241,PME3402,Laboratório de Medição e Controle Discreto,(R) Flavio Celso Trigo,2023-08-07,2023-12-21,mecanica-manual,qua,13:10,16:40,Mecânica,A01-A,1
+2023242,PME3402,Laboratório de Medição e Controle Discreto,(R) Flavio Celso Trigo,2023-08-07,2023-12-21,mecanica-manual,qua,13:10,16:40,Mecânica,A01-A,1
+2023221,PME3403,Laboratório de Vibrações e Controle,(R) Walter Jorge Augusto Ponge Ferreira,2023-08-07,2023-12-21,mecanica-manual,seg,13:10,16:40,Mecânica,A01-A,1
+2023222,PME3403,Laboratório de Vibrações e Controle,(R) Walter Jorge Augusto Ponge Ferreira,2023-08-07,2023-12-21,mecanica-manual,seg,13:10,16:40,Mecânica,A01-A,1
+2023251,PME3403,Laboratório de Vibrações e Controle,(R) Walter Jorge Augusto Ponge Ferreira,2023-08-07,2023-12-21,mecanica-manual,qui,13:10,16:40,Mecânica,A01-A,1
+2023252,PME3403,Laboratório de Vibrações e Controle,(R) Walter Jorge Augusto Ponge Ferreira,2023-08-07,2023-12-21,mecanica-manual,qui,13:10,16:40,Mecânica,A01-A,1
+2023201,PME3431,Seleção de Materiais para Engenharia Mecânica,(R) Roberto Martins de Souza,2023-08-07,2023-12-21,mecanica-manual,sex,09:20,11:00,Mecânica,A09,1
+2023221,PME3472,Projeto de Máquinas,(R) Marcelo Augusto Leal Alves,2023-08-07,2023-12-21,mecanica-manual,seg,15:00,18:30,Mecânica,Oficina,1
+2023222,PME3472,Projeto de Máquinas,(R) Marcelo Augusto Leal Alves,2023-08-07,2023-12-21,mecanica-manual,seg,15:00,18:30,Mecânica,Oficina,1
+2023201,PME3479,Sistemas Térmicos,(R) Jurandir Itizo Yanagihara,2023-08-07,2023-12-21,mecanica-manual,qui,07:30,10:10,Mecânica,A09,1
+2023231,PME3479,Sistemas Térmicos,(R) Flávio Augusto Sanzovo Fiorelli,2023-08-07,2023-12-21,mecanica-manual,ter,14:00,17:30,Mecânica,TS09,2
+2023232,PME3479,Sistemas Térmicos,(R) Flávio Augusto Sanzovo Fiorelli,2023-08-07,2023-12-21,mecanica-manual,ter,14:00,17:30,Mecânica,TS09,2
+2023251,PME3479,Sistemas Térmicos,(R) Flávio Augusto Sanzovo Fiorelli,2023-08-07,2023-12-21,mecanica-manual,qui,14:00,17:30,Mecânica,TS09,2
+2023252,PME3479,Sistemas Térmicos,(R) Flávio Augusto Sanzovo Fiorelli,2023-08-07,2023-12-21,mecanica-manual,qui,14:00,17:30,Mecânica,TS09,2
+2023201,PME3480,Motores de Combustão Interna,(R) Guenther Carlos Krieger Filho,2023-08-07,2023-12-21,mecanica-manual,sex,13:10,14:50,Mecânica,A02,1
+2023201,PME3482,Controle Discreto,(R) Raúl González Lima,2023-08-07,2023-12-21,mecanica-manual,ter,07:30,09:10,Mecânica,A10-A,1
+2023201,PME3598,Introdução ao Projeto Integrado,(R) Alberto Hernandez Neto,2023-08-07,2023-12-21,mecanica-manual,sex,11:10,12:00,Mecânica,A08,1
+2023201,PME3597,Estágio Supervisionado,(R) Paulo Carlos Kaminski,2023-08-07,2023-12-21,mecanica-manual,sab,11:10,12:00,Mecânica,A10-A,1
+2023201,PME3600,Projeto Integrado II,(R) Alberto Hernandez Neto,2023-08-07,2023-12-21,mecanica-manual,sex,12:00,12:50,Mecânica,A09,1
+2023201,PME3554,Introdução às Estruturas Aeronáuticas,Roberto Ramos Junior,2023-08-07,2023-12-21,mecanica-manual,sex,07:30,11:00,Mecânica,A10-A,1
+2023201,PME3556,Dinâmica dos Fluidos Computacional,(R) Fábio Saltara,2023-08-07,2023-12-21,mecanica-manual,qui,08:20,12:00,Mecânica,A10-A,1
+2023201,PME3559,Projeto Aerodinâmico de Aeronaves,Marlon Sproesser Mathias,2023-08-07,2023-12-21,mecanica-manual,sex,16:50,18:30,Mecânica,A09,1
+2023201,PME3541,Engenharia Automotiva II,(R) Marcelo Massarani,2023-08-07,2023-12-21,mecanica-manual,ter,13:10,16:40,Mecânica,A10-A,1
+2023201,PME3543,Estruturas Mecânicas e de Veículos,(R) Leandro Vieira da Silva Macedo,2023-08-07,2023-12-21,mecanica-manual,sab,07:30,11:00,Mecânica,A10-A,1
+2023201,PME3534,Técnicas Experimentais e Computacionais em Biomecânica e Sistemas Vasculares,(R) Raúl González Lima,2023-08-07,2023-12-21,mecanica-manual,qua,09:20,11:00,Mecânica,A01-A,1
+2023201,PME3534,Técnicas Experimentais e Computacionais em Biomecânica e Sistemas Vasculares,(R) Raúl González Lima,2023-08-07,2023-12-21,mecanica-manual,sex,07:30,09:10,Mecânica,A01-A,1
+2023201,PME3560,Princípios de Células a Combustível,(R) Julio Romano Meneghini,2023-08-07,2023-12-21,mecanica-manual,sex,13:10,14:50,Mecânica,A09,1
+2023201,PME3596,Atividades Especiais em Engenharia II,(R) Marcelo Augusto Leal Alves,2023-08-07,2023-12-21,mecanica-manual,sex,16:50,18:30,Mecânica,A08,1
+2023202,PME3596,Atividades Especiais em Engenharia II,(R) Antonio Luis de Campos Mariani,2023-08-07,2023-12-21,mecanica-manual,sex,16:50,18:30,Mecânica,A08,1

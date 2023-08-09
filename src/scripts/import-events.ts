@@ -59,7 +59,7 @@ export const importEvents = async () => {
 
   const allRows: any[] = []
 
-  fs.createReadStream('./src/files/Alocações elétrica - Prod 2023.2.csv')
+  fs.createReadStream('./src/files/Alocações - Mecânica 2023.2.csv')
     .pipe(parse({ delimiter: ',', from_line: 2 }))
     .on('data', (row) => {
       allRows.push({
@@ -92,7 +92,7 @@ export const importEvents = async () => {
         preferences: {
           accessibility: false,
           air_conditioning: false,
-          building: "Produção",
+          building: "Mecânica",
           projector: false
         },
 
