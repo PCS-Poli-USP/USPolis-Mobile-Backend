@@ -59,7 +59,7 @@ export const importEvents = async () => {
 
   const allRows: any[] = []
 
-  fs.createReadStream('./src/files/Alocações - Mecânica 2023.2.csv')
+  fs.createReadStream('./src/files/eletrica_ingestion_file.csv')
     .pipe(parse({ delimiter: ',', from_line: 2 }))
     .on('data', (row) => {
       allRows.push({
@@ -92,7 +92,7 @@ export const importEvents = async () => {
         preferences: {
           accessibility: false,
           air_conditioning: false,
-          building: "Mecânica",
+          building: "Elétrica",
           projector: false
         },
 
@@ -116,6 +116,8 @@ export const importEvents = async () => {
 
   const createdClasses = await Event.find()
   const eventsToBeCreated = removeDuplicateEvents(allRows, createdClasses)
+
+  console.log(eventsToBeCreated.length);
 
   const classes = await Event.insertMany(eventsToBeCreated)
   console.log('Created classes:', classes)
