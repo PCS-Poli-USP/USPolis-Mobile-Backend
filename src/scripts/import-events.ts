@@ -59,7 +59,7 @@ export const importEvents = async () => {
 
   const allRows: any[] = []
 
-  fs.createReadStream('./src/files/eletrica_ingestion_file.csv')
+  fs.createReadStream('./src/files/eletrica_ingestion.csv')
     .pipe(parse({ delimiter: ',', from_line: 2 }))
     .on('data', (row) => {
       allRows.push({
